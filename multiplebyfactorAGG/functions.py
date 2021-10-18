@@ -10,7 +10,7 @@ logger = logging.getLogger(__name__)
 
 #PACKAGE_URL = 'git+https://github.com/<path_to_repository>@'
 
-PACKAGE_URL = 'git+https://aSn315FNoZ8xVgNsKSGQKqmwBo+qxZHRNJUzckuKuhQ@github.com/AnketGore/maximofunction.git'
+PACKAGE_URL = 'git+https://E5wCE+0gSibXbdrqRyhVhqZg2dRwjD4pTzBtAD4AKlw@github.com/AnketGore/maximofunctions.git'
 
 class MultipleByFactorCF(BaseTransformer):
     '''
