@@ -10,9 +10,9 @@ logger = logging.getLogger(__name__)
 
 #PACKAGE_URL = 'git+https://github.com/<path_to_repository>@'
 
-PACKAGE_URL = 'git+https://E5wCE+0gSibXbdrqRyhVhqZg2dRwjD4pTzBtAD4AKlw@github.com/AnketGore/maximofunctions.git'
+PACKAGE_URL = 'git+https://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@github.com/AnketGore/maximofunctions.git'
 
-class MultipleByFactorCF(BaseTransformer):
+class MultipleByFactorAGG(BaseTransformer):
     '''
     The docstring of the function will show as the function description in the UI.
     '''
